@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-aaaa
-=======
+
 text1
 branch3
-aaaaa
->>>>>>> bugfix/test-1
+
